@@ -8,3 +8,4 @@ nacos/nacos-server:v2.4.2
 quay.io/quarkus/ubi-quarkus-mandrel-builder-image:jdk-21
 registry.access.redhat.com/ubi8/ubi-minimal:8.10
 apache/rocketmq:5.3.1
+apacherocketmq/rocketmq-dashboard:latest
