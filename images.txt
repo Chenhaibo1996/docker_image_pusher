@@ -10,3 +10,4 @@ registry.access.redhat.com/ubi8/ubi-minimal:8.10
 apache/rocketmq:5.3.1
 apacherocketmq/rocketmq-dashboard:latest
 apache/rocketmq:5.3.0
+bitnami/postgresql:17.2.0
