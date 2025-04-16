@@ -1,2 +1,3 @@
 gitlab/gitlab-ce:latest
 jenkins/jenkins:2.492.3-lts-jdk17
+
