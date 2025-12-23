@@ -1,3 +1,2 @@
 gcr.io/k8s-minikube/kicbase:v0.0.46
-nginx:1.29.4
 linkease/kspeeder:latest
