@@ -1,3 +1,5 @@
 linkease/kspeeder:latest
 registry.kspeeder.com/linkease/kspeeder:latest
 apache/doris:broker-4.0.5
+apache/doris:fe-4.0.5
+apache/doris:be-4.0.5
