@@ -1,4 +1,3 @@
-gcr.io/k8s-minikube/kicbase:v0.0.46
 linkease/kspeeder:latest
 registry.kspeeder.com/linkease/kspeeder:latest
 apache/doris:broker-4.0.5
