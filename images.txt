@@ -1,1 +1,4 @@
-docker.io/gvenzl/oracle-xe:21-slim
+docker.elastic.co/elasticsearch/elasticsearch:9.5.4
+docker.elastic.co/kibana/kibana:9.5.4
+docker.elastic.co/logstash/logstash:9.5.4
+docker.elastic.co/beats/filebeat:9.5.4
