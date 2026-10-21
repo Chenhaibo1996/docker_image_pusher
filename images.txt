@@ -1,4 +1,4 @@
-docker.elastic.co/elasticsearch/elasticsearch:9.5.4
-docker.elastic.co/kibana/kibana:9.5.4
-docker.elastic.co/logstash/logstash:9.5.4
-docker.elastic.co/beats/filebeat:9.5.4
+trinodb/trino:483
+clickhouse/clickhouse-server:26.3.57.12
+apache/doris:fe-4.0.8
+apache/doris:be-4.0.8
